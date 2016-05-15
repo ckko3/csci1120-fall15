@@ -1,0 +1,1516 @@
+  A B C D E F G H I J K
+ 0 . . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . . . . . . . . .
+ 3    . . . . . . . . . . .
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . . . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . . . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: A 0
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . . . . . . . . .
+ 3    . . . . . . . . . . .
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . . . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . . . . . . . . . . .
+10           . . . . . . . . . . .
+Player X, make your move: B 11
+Invalid move. Enter again!
+Player X, make your move: M 4
+Invalid move. Enter again!
+Player X, make your move: A 0
+Invalid move. Enter again!
+Player X, make your move: b 9
+Invalid move. Enter again!
+Player X, make your move: B 9
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . . . . . . . . .
+ 3    . . . . . . . . . . .
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . . . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: K 3
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . . . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . . . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player X, make your move: B 7
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . . . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: D 2
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . . . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player X, make your move: H 5
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . . . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: F 7
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      . . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player X, make your move: A 5
+  A B C D E F G H I J K
+ 0 O . . . . . . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: F 0
+  A B C D E F G H I J K
+ 0 O . . . . O . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . . . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player X, make your move: I 2
+  A B C D E F G H I J K
+ 0 O . . . . O . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . . .
+Player O, make your move: J 10
+  A B C D E F G H I J K
+ 0 O . . . . O . . . . .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player X, make your move: J 0
+  A B C D E F G H I J K
+ 0 O . . . . O . . . X .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player O, make your move: C 0
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  . . . . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player X, make your move: C 1
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  . . X . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player O, make your move: A 1
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . . . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player X, make your move: D 7
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . X . O . . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player O, make your move: G 7
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . . . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . X . O O . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player X, make your move: F 1
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . X . O O . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . . . . . . . O .
+Player O, make your move: D 10
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . X . O O . . . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: I 7
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . . . . .
+ 7        . X . X . O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: H 6
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . O . . .
+ 7        . X . X . O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . . . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: E 9
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . . . . . . . O . . .
+ 7        . X . X . O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: B 6
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X . O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: E 7
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . . . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: C 3
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . O . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          . X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: A 9
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . O . . . . . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: G 3
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . O . . . O . . . O
+ 4     . . . . . . . . . . .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: J 4
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . O . . . O . . . O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: J 3
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . . X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: H 2
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . . X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: E 1
+  A B C D E F G H I J K
+ 0 O . O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: B 0
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . . .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: J 8
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         . . . . . . . . . O .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: A 8
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O . X . .
+ 8         X . . . . . . . . O .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: H 7
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O . . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . . . O .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: D 3
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O X . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . . . O .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player O, make your move: H 8
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O X . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . . . .
+10           . . . O . . . . . O .
+Player X, make your move: J 9
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X . .
+ 3    . . O X . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . . X .
+10           . . . O . . . . . O .
+Player O, make your move: J 2
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . . X .
+10           . . . O . . . . . O .
+Player X, make your move: I 9
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . . O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . X X .
+10           . . . O . . . . . O .
+Player O, make your move: I 3
+  A B C D E F G H I J K
+ 0 O X O . . O . . . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . X X .
+10           . . . O . . . . . O .
+Player X, make your move: H 0
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . . . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . X X .
+10           . . . O . . . . . O .
+Player O, make your move: D 4
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . . . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . X X .
+10           . . . O . . . . . O .
+Player X, make your move: I 1
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . . X X .
+10           . . . O . . . . . O .
+Player O, make your move: H 9
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X . . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . . O . . . . . O .
+Player X, make your move: B 8
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . . . X X O .
+ 3    . . O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . . O . . . . . O .
+Player O, make your move: B 3
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . . . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . . O . . . . . O .
+Player X, make your move: F 2
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . . O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . . O . . . . . O .
+Player O, make your move: C 4
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . . O . . . . . O .
+Player X, make your move: C 10
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . . O X X .
+10           . . X O . . . . . O .
+Player O, make your move: G 9
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O . . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player X, make your move: C 6
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O . X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player O, make your move: B 1
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . . . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player X, make your move: E 8
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . . X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player O, make your move: I 4
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O .
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player X, make your move: K 2
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . . O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player O, make your move: G 6
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X . . X . O O X X .
+10           . . X O . . . . . O .
+Player X, make your move: C 9
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    . O O X . . O . O O O
+ 4     . . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           . . X O . . . . . O .
+Player O, make your move: A 3
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    O O O X . . O . O O O
+ 4     . . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           . . X O . . . . . O .
+Player X, make your move: A 4
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           . . X O . . . . . O .
+Player O, make your move: A 10
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O . X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           O . X O . . . . . O .
+Player X, make your move: E 2
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           O . X O . . . . . O .
+Player O, make your move: G 10
+  A B C D E F G H I J K
+ 0 O X O . . O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           O . X O . . O . . O .
+Player X, make your move: E 0
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O .
+ 9          X X X . X . O O X X .
+10           O . X O . . O . . O .
+Player O, make your move: K 8
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X . X . O O X X .
+10           O . X O . . O . . O .
+Player X, make your move: I 10
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X . X . O O X X .
+10           O . X O . . O . X O .
+Player O, make your move: H 10
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X . X . O O X X .
+10           O . X O . . O O X O .
+Player X, make your move: D 9
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       . O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . . O O X O .
+Player O, make your move: A 6
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . . O O X O .
+Player X, make your move: F 10
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X . . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: E 3
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X . O O . . . . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: G 4
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X . O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: B 4
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   . . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: A 2
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . .
+ 2   X . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: K 1
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . O
+ 2   X . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X . . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: F 8
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . O
+ 2   X . . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: B 2
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X . O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: J 1
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X . O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: F 9
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . . O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: F 6
+  A B C D E F G H I J K
+ 0 O X O . X O . X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . X O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: G 0
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X .
+ 5      X . . . . . . X . . .
+ 6       O O X . . X O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: K 4
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . . . . X . . .
+ 6       O O X . . X O O . . .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: J 6
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . . . . X . . .
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . .
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: K 7
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . . . . X . . .
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: E 5
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . .
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O . O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: I 8
+  A B C D E F G H I J K
+ 0 O X O . X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . .
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: D 0
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . .
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: K 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . . X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player O, make your move: E 6
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O . X O O X O .
+Player X, make your move: E 10
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O .
+Player O, make your move: K 10
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . . X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O O
+Player X, make your move: F 4
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X . X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O O
+Player O, make your move: J 7
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X . . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O O
+Player X, make your move: C 8
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O . . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O O
+Player O, make your move: F 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O . X O X X O O X O O
+Player X, make your move: B 10
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X . X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: D 8
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X . O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: D 1
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . . O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: D 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X . . X X O
+ 2   X O . O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: C 2
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X . . X X O
+ 2   X O X O X X . X X O X
+ 3    O O O X O . O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: F 3
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X . . X X O
+ 2   X O X O X X . X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X . O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: G 8
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X . . X X O
+ 2   X O X O X X . X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: G 1
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O . X X O
+ 2   X O X O X X . X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . . O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: C 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O . X X O
+ 2   X O X O X X . X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . X O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: G 2
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O . X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . X O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: H 1
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . X O O O . X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: G 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X . O X X
+ 5      X . X O O O O X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: H 4
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . . X
+ 6       O O X . O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player O, make your move: D 6
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . . X
+ 6       O O X O O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X .
+10           O X X O X X O O X O O
+Player X, make your move: K 9
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . . X
+ 6       O O X O O X O O . O .
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player O, make your move: K 6
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X .
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . . X
+ 6       O O X O O X O O . O O
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player X, make your move: K 0
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X X
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . . X
+ 6       O O X O O X O O . O O
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player O, make your move: J 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X . X X
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . O X
+ 6       O O X O O X O O . O O
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player X, make your move: I 0
+  A B C D E F G H I J K
+ 0 O X O O X O O X X X X
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X . O X
+ 6       O O X O O X O O . O O
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player O, make your move: I 5
+  A B C D E F G H I J K
+ 0 O X O O X O O X X X X
+ 1  O O X X O X O X X X O
+ 2   X O X O X X O X X O X
+ 3    O O O X O O O . O O O
+ 4     X O O O . X X X O X X
+ 5      X . X O O O O X O O X
+ 6       O O X O O X O O . O O
+ 7        . X . X X O O O X O X
+ 8         X X X O X X X O X O O
+ 9          X X X X X O O O X X X
+10           O X X O X X O O X O O
+Player O wins!
