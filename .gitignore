@@ -1,1 +1,8 @@
 *.DS_Store
+*.o
+*.exe
+computus
+hilo
+hex
+tour
+calGrade
